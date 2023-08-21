@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.header{
+  background-color: rgba(0, 255, 255, 0.332);
+  border-radius: 10px;
+}
+footer{
+  background-color: rgba(127, 255, 212, 0.386);
+  border-radius: 10px;
+}
